@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @skunoo
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning NodeJS
+- 😄 Pronouns: he/him
